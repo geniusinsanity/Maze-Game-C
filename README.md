@@ -54,4 +54,4 @@ For an in-depth dive into the internal logic, state management, algorithm implem
 - `documentation.html`
 
 ---
-*Developed with ❤️ as part of the ADS (Advanced Data Structures) Course.*
+*Developed by geniusinsanity as part of the ADS (Algorithms and Data Structures) Course.*
